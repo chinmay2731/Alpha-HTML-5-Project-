@@ -1,0 +1,291 @@
+body{
+    background-image: url(./images/download.png );
+    background-repeat: no-repeat;
+    background-size:px;
+    background-color: #f5f5f5;
+}
+
+/* Header section start  */
+#HeaderSection{
+    color: white;
+    width: 100%;
+}
+#Logo{
+    width: 30%;
+    display: inline-block;
+
+}
+#Logo h1{
+    color:white;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 15px 0px 0px 0px;
+}
+#Logo span{
+    font-weight: 100px;
+    color:white ;
+
+}
+
+#Option {
+    width: 69%;
+    display: inline-block;
+}
+#Option ul{
+    display: inline-block;
+    position: relative;
+    left: 560px;
+}
+#Option ul li{
+    color: white;
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 17px;
+    
+}
+#SignUp{
+    size: 20px;
+    padding: 5px 15px;
+    border-radius: 8px;
+    border: 1px solid white;
+}
+.fa.fa-angle-down{
+    font-weight: 900;
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+/* Header section end */
+
+
+/* bodySection start */
+
+#BodySection{
+    text-align: center;
+    color: white;
+}
+#BodySection h1{
+    font-weight: 100px;
+    font-size: 58px;
+
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+#BodySection p{
+
+    font-size: 20px;
+    margin-top: -10px;
+}
+#BodySection ul{
+    
+    display: inline-block;
+    border-radius: 5px;
+ }
+
+#BodySection ul li{
+    font-size: 18px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px 25px;
+}
+#sign{
+    color: black;
+    background-color: white;
+    border: 2px solid white!important;
+    margin-right : 25px;    
+    
+}
+/* body section end */
+
+/* DescripSection Start */
+#DescripSection{
+    border: 1px solid white;
+    background-color: white;
+    text-align: center ;
+    width: 1100px;
+    margin: auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+
+#DescripSection h1{
+    color:  gray;
+    font-size: 35px;
+    font-weight: 90px;
+    padding-top: 50px;
+    
+}
+
+#DescripSection p{
+    font: 35px;
+    font-weight: 90px;
+    padding-top: 20px;
+}
+
+
+
+#img1{
+    padding-top: 20px;
+    height: 300px;
+    width: 1100px ;
+    border-radius: 5px;
+}
+/* DescripSection end*/
+
+
+
+#IconScetion{
+    background-color: white;    
+    width: 1100px;
+    margin: 0 auto;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
+#IconScetion div{
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+    padding-top: 60px;
+    border-bottom: 2px solid #efefef;
+    border-left: 2px solid #efefef;
+} 
+#IconSection p{
+    font-size: 17px;
+}
+
+.fa.fa-bolt{
+    color: white;
+    background-color: #e89980;
+    font-size: 48px;
+    border-radius: 100%;
+    padding: 21px 35px;
+
+}
+
+.fa.fa-area-chart{
+    color: white;
+    background-color: #7fcdb8;
+    font-size: 48px;
+    border-radius: 100%;
+    padding: 21px 21px;
+
+}
+
+.fa.fa-cloud{
+    color: white;
+    background-color: #90b0ba ;
+    font-size: 48px;
+    border-radius: 100%;
+    padding: 21px 21px;
+}
+
+
+.fa.fa-lock{
+    color: white;
+    background-color: #e5cb95  ;
+    font-size: 48px;
+    border-radius: 100%;
+    padding: 21px 30px;
+}
+
+#ImgSection{
+    padding-left: 150px;
+    padding-top: 50px;
+    margin-right: 100px;
+}
+#ImgSection div {
+    width: 500px;
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+        
+
+    }
+
+#div1{
+    margin-left: 20px;
+}
+#ImgSection img{
+    width: 100%;
+    border-radius: 10px;
+    padding-bottom: 50px;
+}
+#ImgSection h1{
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+
+}
+#ImgSection p{
+    color: #2c2c2c ;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 17px;
+
+}
+#ImgSection button{
+    font-size: 17px;
+    width: 120px;
+    height: 45px;
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 10px;
+    color: gray;
+    border-color: gray;
+}
+#ImgSection button:hover{
+    background-color: whitesmoke;
+    border-color: gray;
+
+}
+
+
+#FooterSection{
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 69px;
+    background-color: #e89980;
+    padding-bottom: 69px;
+}
+#FooterSection div{
+    display: inline-block;
+}
+#FooterSection h1{
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 49px;
+
+}
+#FooterSection h2{
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+}
+
+#FooterSection input{
+    width: 300px;   
+    height: 30px ;
+    background-color:#e89980 ;
+    background: e89980;
+    border-color: white;
+    border-radius: 7px;
+    
+}
+#FooterSection button{
+    height: 40px;
+    width: 90px;
+    border-radius: 10px;
+    background-color: #e89980;
+
+}
+
+
+
+    
+
+
+
